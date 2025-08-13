@@ -15,6 +15,16 @@ I originally became a software engineer in order to make video games and hold a 
 - Frameworks: Ruby on Rails (2 years), Azure Service Fabric (1 year)
 - Tools & Platforms: Unreal Engine, GitHub, Azure DevOps, JIRA
    
+## Key Projects
+
+- [__Dyndrite App Development Kit__](https://web.archive.org/web/20230304132853/https://www.dyndrite.com/app-development-kit-adk) - A tool for creating software used to operate industrial 3D printers.
+- __Video & Metadata Hard Deletion Microservices__ - Cleanup microservices that saves thousands of dollars each month in wasted storage costs.
+- [__Madden 16 & 17__](https://en.wikipedia.org/wiki/Madden_NFL_16) - AAA football video games.
+- [__GL Studio__](https://disti.com/gl-studio/) - A tool for creating machine interface and maintenance training software.
+
+
+
+
 
 <!--
 **rhossack/rhossack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
