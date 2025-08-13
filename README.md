@@ -1,5 +1,3 @@
-WIP
-
 Hey, I'm Roderick Hossack. I'm a software engineer focused on backend work using C++ or whichever technology my current task calls for.
 
 ## About Me
@@ -18,11 +16,18 @@ I originally became a software engineer in order to make video games and hold a 
 ## Key Projects
 
 - [__Dyndrite App Development Kit__](https://web.archive.org/web/20230304132853/https://www.dyndrite.com/app-development-kit-adk) - A tool for creating software used to operate industrial 3D printers.
-- __Video & Metadata Hard Deletion Microservices__ - Cleanup microservices that saves thousands of dollars each month in wasted storage costs.
+- __Video & Metadata Hard Deletion Microservices__ - An internal Microsoft tool. Cleanup microservices that saves thousands of dollars each month in wasted storage costs.
 - [__Madden 16 & 17__](https://en.wikipedia.org/wiki/Madden_NFL_16) - AAA football video games.
 - [__GL Studio__](https://disti.com/gl-studio/) - A tool for creating machine interface and maintenance training software.
 
+## Professional Goals
 
+- __Career Development__ - Focused on furthering my career in software development, specifically by developing software that brings people joy.
+- __Continuous Improvement__ - Committed to ongoing technical development by increasing the breadth and depth of my skillset.
+
+## Connect With Me
+
+- [__LinkedIn__](https://www.linkedin.com/in/roderick-hossack/)
 
 
 
